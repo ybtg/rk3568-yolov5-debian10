@@ -67,7 +67,7 @@ rk3568-yolov5-debian10/
 
 1. Export YOLOv5 model to ONNX
 2. Convert ONNX to RKNN using RKNN-Toolkit2-1.3.0
-3. Quantize model (INT8) with rknpu2-1.3.0
+3. Quantize model (INT8)
 4. Deploy RKNN model to RK3568 board
 5. Run inference demo
 
