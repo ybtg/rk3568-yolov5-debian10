@@ -51,9 +51,9 @@ rk3568-yolov5-debian10/
 
 │ ├── environment.md
 
-│ ├── conversion.md
+│ ├── conversion(pt2onnx).md
 
-│ ├── quantization.md
+│ ├── quantization(onnx2rknn).md
 
 │ ├── deployment.md
 

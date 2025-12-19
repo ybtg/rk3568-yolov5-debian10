@@ -18,22 +18,30 @@ INT8 quantization is performed during the RKNN build process.
 
 ## Required Files
 
-Download the required files from the release, or from the original authors.
+Download the required files from the **GitHub Release**, or from the **original authors / mirrors** listed below.
 
 ### Files Used in This Project
 
-- `rknn-toolkit2-1.3.0.zip`
-- `demianoh-rknntoolkit2-1.3.0-py38-docker.tar.gz`  
-  (Py38 version is used in this project)
-- (Optional) `demianoh-rknntoolkit2-1.3.0-py36-docker.tar`
+* `rknn-toolkit2-1.3.0.zip`
 
-### Original Sources
+* `demianoh-rknntoolkit2-1.3.0-py38-docker.tar.gz`
+  (Py38 version is used and verified in this project)
 
-- RKNN-Toolkit2 v1.3.0 (Fruit-Pi):  
-  https://github.com/Fruit-Pi/rknn-toolkit2
+* *(Optional)* `demianoh-rknntoolkit2-1.3.0-py36-docker.tar`
 
-- RKNN-Toolkit2 Docker image (demianoh):  
-  https://hub.docker.com/r/demianoh/rknntoolkit2
+### Download Sources
+
+* **GitHub Release (recommended for toolchain files)**
+  See the *Releases* page of this repository.
+
+* **Docker Hub (official source)**
+  [https://hub.docker.com/r/demianoh/rknntoolkit2](https://hub.docker.com/r/demianoh/rknntoolkit2)
+
+* **Baidu Netdisk mirror (optional, for large Docker files)**
+  [https://pan.baidu.com/s/166iWh073yyXtsfJGddRpug?pwd=rknn](https://pan.baidu.com/s/166iWh073yyXtsfJGddRpug?pwd=rknn)
+
+> ⚠️ Docker images are **not built or maintained by this repository**.
+> They are provided **only to improve download accessibility and reproducibility**.
 
 ---
 
