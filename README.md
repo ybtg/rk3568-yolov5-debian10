@@ -115,5 +115,7 @@ This project is licensed under the **MIT License**.
 - Rockchip RKNN Toolkit
 - YOLOv5 by Ultralytics
 - 正点原子 documentation
-- Fruit-Pi provide rknn-toolkit2-1.3.0 examples
-- demianoh provide rknn-toolkit2-1.3.0 dockers
+- Fruit-Pi rknn-toolkit2 examples  
+  https://github.com/Fruit-Pi/rknn-toolkit2
+- demianoh RKNN-Toolkit2 Docker image  
+  https://hub.docker.com/r/demianoh/rknntoolkit2
