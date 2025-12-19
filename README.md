@@ -44,13 +44,21 @@ and real pitfalls encountered during deployment.
 ## 4. Repository Structure
 
 rk3568-yolov5-debian10/
+
 ├── README.md
+
 ├── docs/
+
 │ ├── environment.md
+
 │ ├── conversion.md
+
 │ ├── quantization.md
+
 │ ├── deployment.md
+
 │ └── troubleshooting.md
+
 └── LICENSE
 
 ---
