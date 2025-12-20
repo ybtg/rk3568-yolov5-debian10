@@ -160,7 +160,7 @@ apt-get install make -y
 
 ## 8. Fix Script Line Endings (Important)
 
-If you extracted `rknpu2-1.3.0` on **Windows**, shell scripts may have CRLF issues.
+Because I extracted `rknpu2-1.3.0` on **Windows**, shell scripts have CRLF issues.
 
 Install `dos2unix`:
 
