@@ -250,7 +250,7 @@ cp -a install /userdata/
 Enter the runtime directory:
 
 ```bash
-cd /userdata/rknn_yolov5_demo_linux
+cd /userdata/install/rknn_yolov5_demo_Linux
 ```
 
 ---
