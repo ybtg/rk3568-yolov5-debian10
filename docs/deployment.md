@@ -142,7 +142,7 @@ unzip rknpu2-1.3.0.zip
 Replace the default YOLOv5 RKNN model with your own:
 
 ```bash
-cp best-sim.rknn userdata/rknpu2-1.3.0/examples/rknn_yolov5_demo/model/RK356X/yolov5s-640-640.rknn
+cp best-sim.rknn /userdata/rknpu2-1.3.0/examples/rknn_yolov5_demo/model/RK356X/yolov5s-640-640.rknn
 ```
 
 ---
